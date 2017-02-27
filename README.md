@@ -1,11 +1,15 @@
 ## the Devops 2.1 Toolkit
 
-This project is just a placeholder for the repositories and gists belonging to the book [The DevOps 2.0 Toolkit](https://leanpub.com/the-devops-2-toolkit) by [Viktor Farcic](https://twitter.com/vfarcic)
+This project is just a placeholder for the repositories and gists belonging to the book [The DevOps 2.1 Toolkit](https://leanpub.com/the-devops-2-1-toolkit) by [Viktor Farcic](https://twitter.com/vfarcic)
 
 ## How to use
-Clone the project.
+
+Clone:   
+    
     git clone https://github.com/merikan/the-devops-2-1-toolkit.git
-Update project
+
+Update:     
+    
     git pull && git submodule update --init --recursive 
 
 
