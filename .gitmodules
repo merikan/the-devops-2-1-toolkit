@@ -4,3 +4,6 @@
 [submodule "vfarcic/01-continuous-integration.sh"]
 	path = vfarcic/01-continuous-integration.sh
 	url = https://gist.github.com/886ae97fe7a98864239e9c61929a3c7c.git
+[submodule "vfarcic/02-docker-swarm.sh"]
+	path = vfarcic/02-docker-swarm.sh
+	url = https://gist.github.com/750fc4117bad9d8619004081af171896.git
