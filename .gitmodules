@@ -1,3 +1,6 @@
 [submodule "vfarcic/go-demo"]
 	path = vfarcic/go-demo
 	url = https://github.com/vfarcic/go-demo.git
+[submodule "vfarcic/01-continuous-integration.sh"]
+	path = vfarcic/01-continuous-integration.sh
+	url = https://gist.github.com/886ae97fe7a98864239e9c61929a3c7c.git
