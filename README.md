@@ -15,4 +15,10 @@ Update project
     vim README.md
     git add -A
     git ci -m "Initial commit"
+    mcd vfarcic
+    git submodule add https://github.com/vfarcic/go-demo.git
+    git ci -m "Add repo vfarcic/go-demo.git"
+    git submodule add https://gist.github.com/886ae97fe7a98864239e9c61929a3c7c.git 01-continuous-integration.sh
+    git ci -m "add gist 01-continuous-integration.sh"
+    ....... 
 
