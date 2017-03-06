@@ -7,3 +7,6 @@
 [submodule "vfarcic/02-docker-swarm.sh"]
 	path = vfarcic/02-docker-swarm.sh
 	url = https://gist.github.com/750fc4117bad9d8619004081af171896.git
+[submodule "vfarcic/03-networking.sh"]
+	path = vfarcic/03-networking.sh
+	url = https://gist.github.com/fd7d7e04e1133fc3c90084c4c1a919fe.git
